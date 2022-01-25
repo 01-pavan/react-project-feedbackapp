@@ -29,6 +29,7 @@ function FeedbackForm({ handleAdd }) {
       };
       handleAdd(newFeedback);
       setText("");
+      
     }
   };
   return (
